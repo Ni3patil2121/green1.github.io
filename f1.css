@@ -72,16 +72,9 @@ h1 {
 }
 
 .nit{
-	display: block;
-	background-color: #ffffff55;
-	border-radius: .4rem;
-	padding: 5rem;
-    position: relative;
-    margin: 0px 0px 0px 0;
-    left: 0px;
-    grid-area: 1 / 1 / 2 / 2;
-    justify-self: start;
-    align-self: start;
+	width: 90%; 
+    padding: 16px; 
+    margin: 15px 0; 
     
 }
 
